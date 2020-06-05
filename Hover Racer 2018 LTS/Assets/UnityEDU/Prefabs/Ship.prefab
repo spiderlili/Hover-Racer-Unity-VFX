@@ -2207,7 +2207,7 @@ ParticleSystem:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 0}
         key1: {r: 0.9490196, g: 0.9882353, b: 0.99607843, a: 1}
-        key2: {r: 0.7137255, g: 0.9843137, b: 1, a: 0}
+        key2: {r: 0.7137255, g: 0.9843137, b: 1, a: 0.73950386}
         key3: {r: 0.39607844, g: 0.6029465, b: 0.8, a: 0}
         key4: {r: 1, g: 1, b: 1, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
@@ -2216,14 +2216,14 @@ ParticleSystem:
         ctime0: 0
         ctime1: 19661
         ctime2: 26214
-        ctime3: 31804
+        ctime3: 32768
         ctime4: 65535
         ctime5: 0
         ctime6: 0
         ctime7: 0
         atime0: 0
         atime1: 19661
-        atime2: 65535
+        atime2: 32768
         atime3: 65535
         atime4: 0
         atime5: 0
@@ -2231,7 +2231,7 @@ ParticleSystem:
         atime7: 0
         m_Mode: 0
         m_NumColorKeys: 5
-        m_NumAlphaKeys: 3
+        m_NumAlphaKeys: 4
       minGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -5636,7 +5636,7 @@ ParticleSystemRenderer:
   m_RenderMode: 0
   m_SortMode: 0
   m_MinParticleSize: 0
-  m_MaxParticleSize: 0.5
+  m_MaxParticleSize: 0.7
   m_CameraVelocityScale: 0
   m_VelocityScale: 0
   m_LengthScale: 2
