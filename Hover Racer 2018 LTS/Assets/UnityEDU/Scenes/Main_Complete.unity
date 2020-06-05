@@ -569,6 +569,41 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1597882402}
+    - target: {fileID: 7414051529685809218, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7414051529685809218, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 0.11764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 7414051529685809218, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].value
+      value: 0.83809483
+      objectReference: {fileID: 0}
+    - target: {fileID: 7414051529685809218, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].time
+      value: 0.5142118
+      objectReference: {fileID: 0}
+    - target: {fileID: 7414051529685809218, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].inSlope
+      value: 0.64672565
+      objectReference: {fileID: 0}
+    - target: {fileID: 7414051529685809218, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].outSlope
+      value: 0.64672565
+      objectReference: {fileID: 0}
+    - target: {fileID: 7414051529685809218, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: SizeModule.curve.maxCurve.m_Curve.Array.data[1].outWeight
+      value: 0.42439768
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 161fbc015bf32d543818077a62bd6787, type: 3}
 --- !u!4 &504865400 stripped
@@ -2309,7 +2344,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1597882399}
-  m_LocalRotation: {x: 0.011196053, y: 0.3826552, z: -0.004637585, w: 0.9238118}
+  m_LocalRotation: {x: 0.011196047, y: 0.3826551, z: -0.0046375818, w: 0.92381185}
   m_LocalPosition: {x: 33.149555, y: -38.4, z: 128.09663}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -3290,7 +3325,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1936166318}
-  m_LocalRotation: {x: 0.011196053, y: 0.3826552, z: -0.004637585, w: 0.9238118}
+  m_LocalRotation: {x: 0.011196047, y: 0.3826551, z: -0.0046375818, w: 0.92381185}
   m_LocalPosition: {x: 33.149555, y: -38.4, z: 128.09663}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
