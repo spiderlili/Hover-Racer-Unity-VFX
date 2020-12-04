@@ -569,6 +569,31 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1597882402}
+    - target: {fileID: 8808699228246189143, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: startDelay.scalar
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8808699228246189143, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8808699228246189143, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8808699228246189143, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: EmissionModule.rateOverDistance.scalar
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8808699228246189143, guid: 161fbc015bf32d543818077a62bd6787,
+        type: 3}
+      propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 161fbc015bf32d543818077a62bd6787, type: 3}
 --- !u!4 &504865400 stripped
